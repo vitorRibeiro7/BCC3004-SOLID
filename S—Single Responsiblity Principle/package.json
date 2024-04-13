@@ -1,0 +1,16 @@
+{
+  "name": "srp-solid",
+  "version": "1.0.0",
+  "description": " SINGLE RESPONSABILITY PRINCIPLE ",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
