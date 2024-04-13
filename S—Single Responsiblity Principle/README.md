@@ -54,7 +54,6 @@ class User {
     this.phone = phone;
     this.bornDate = bornDate;
   }
-
 }
 
 class UserFormatter {
@@ -70,7 +69,12 @@ class AgeCalculator {
   }
 }
 
-const user = new User('John Doe', 'johndoe@test.com", '123-456-7890', new Date(1990, 5, 15));
+const user = new User(
+  "John Doe",
+  "johndoe@test.com",
+  "123-456-7890",
+  new Date(1990, 5, 15)
+);
 
 console.log(UserFormatter.displayUserInfo(user));
 
