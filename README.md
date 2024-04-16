@@ -44,3 +44,26 @@
 <p>The SOLID principles are a powerful tool for software developers, offering a framework for creating systems that are easy to understand, maintain, and extend. While there are potential drawbacks, such as the risk of over-engineering or over-abstraction, the benefits of using SOLID principles in software design are significant. By adhering to these principles, developers can create systems that are robust, flexible, and capable of withstanding the test of time.</p>
 
 <p>This repository serves as a resource for understanding and applying the SOLID principles in your projects. Whether you're a seasoned developer or just starting your journey in software development, these principles can guide you towards writing better, more maintainable code.</p>
+
+<h2>Run the code!</h2>
+<p>Each principle has its own folder with code examples in TypeScript. You can run the code by following these steps:</p>
+
+```bash
+# Clone the repository
+ $ git clone
+
+# Navigate to some principle folder (e.g., Single Responsibility Principle)
+ $ cd S—Single\ Responsibility\ Principle
+
+# Install dependencies
+ $ yarn
+
+# Run the code
+ $ yarn dev
+
+# Repeat the same steps for other principles
+ $ cd ../O—Open-Closed\ Principle
+ $ cd ../L—Liskov\ Substitution\ Principle
+ $ cd ../I—Interface\ Segregation\ Principle
+ $ cd ../D—Dependency\ Inversion\ Principle
+```
