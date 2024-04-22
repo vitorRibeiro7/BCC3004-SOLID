@@ -1,5 +1,7 @@
 <h1 align="center"> SOLID PRINCIPLES - BCC3004 </h1>
 
+[pt-BR](./README-pt-BR.md)
+
 <h2>Introduction</h2>
 <p>The SOLID principles are a set of software design principles that encourage developers to create more understandable, flexible, and maintainable systems. These principles are widely recognized in the software development community and are a cornerstone of good object-oriented design. This repository aims to provide a comprehensive overview of the SOLID principles, including their context, benefits, drawbacks, and separate explanations for each principle.</p>
 
