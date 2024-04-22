@@ -45,7 +45,7 @@
 
 <p>This repository serves as a resource for understanding and applying the SOLID principles in your projects. Whether you're a seasoned developer or just starting your journey in software development, these principles can guide you towards writing better, more maintainable code.</p>
 
-<h2>Run the code!</h2>
+<h2>Run the codes!</h2>
 <p>Each principle has its own folder with code examples in TypeScript. You can run the code by following these steps:</p>
 
 ```bash
